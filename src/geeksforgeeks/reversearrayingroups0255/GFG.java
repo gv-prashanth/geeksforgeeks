@@ -2,6 +2,14 @@ package geeksforgeeks.reversearrayingroups0255;
 
 import java.io.*;
 import java.util.*;
+/*
+https://practice.geeksforgeeks.org/problems/reverse-array-in-groups0255/1/
+
+Sample Input
+1
+5 3
+1 2 3 4 5
+*/
 
 public class GFG {
     public static void main (String[] args) throws IOException {

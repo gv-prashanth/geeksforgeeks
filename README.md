@@ -1,2 +1,2 @@
 # geeksforgeeks
-Solutions to problems from geeks for geeks available <a href="https://practice.geeksforgeeks.org/explore"> Here </a>
+Solutions to problems from geeks for geeks available at https://practice.geeksforgeeks.org/explore"
